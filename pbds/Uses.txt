@@ -1,0 +1,10 @@
+
+* how many numbers are smaller than a given value
+
+* how many numbers are smaller than or equal to a given value
+
+* how many numbers are greater than a given value
+
+* how many numbers are greater than or equal to a given value
+
+* 
